@@ -1,1 +1,3 @@
-# temp
+---
+permalink: /index.html
+---
