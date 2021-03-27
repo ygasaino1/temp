@@ -1,3 +1,1 @@
----
-permalink: /a.html
----
+asdasdasd
